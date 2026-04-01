@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from './components/header'
+import Header from './components/Header'
 import Counter from './components/count'
 const App = () => {
   return (
